@@ -1,3 +1,20 @@
+# Large files
+data/PNS/2013/Microdados/*
+data/PNS/2013/Volume 1/*
+data/PNS/2013/Volume 2/*
+data/PNS/2013/Volume 3/*
+data/PNS/2013/Volume 4/*
+
+data/PNS/2019/Microdados/*
+data/PNS/2019/Volume 4/*
+data/PNS/2019/Volume 5/*
+
+data/extract/*.csv
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +144,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.Rproj.user
